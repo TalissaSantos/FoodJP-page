@@ -11,11 +11,11 @@ O objetivo deste projeto foi criar uma página simples, visualmente atraente e t
 - Google Lighthouse para auditoria de boas práticas, acessibilidade e SEO.
 
 📋 Funcionalidades<br>
-Responsividade: O layout é adaptável a diferentes dispositivos e resoluções de tela, utilizando Flexbox para gerenciar o posicionamento dos elementos.
+Responsividade: O layout é adaptável a diferentes dispositivos e resoluções de tela, utilizando Flexbox para gerenciar o posicionamento dos elementos.<br>
 Design Simples e Limpo: Mantive um design minimalista, baseado no desafio do Figma, com foco na experiência do usuário.
+
 🌟 Resultados do Google Lighthouse
 
-- Boas práticas:100%
 - Acessibilidade: 100%
 - Melhores Práticas: 100%
 - SEO: 100%
