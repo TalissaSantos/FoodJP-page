@@ -5,10 +5,10 @@ Este é um projeto de uma landing page para um restaurante oriental, desenvolvid
 O objetivo deste projeto foi criar uma página simples, visualmente atraente e totalmente responsiva, aplicando os conhecimentos adquiridos sobre Flexbox e boas práticas de desenvolvimento web.
 
 🚀 Tecnologias Utilizadas<br>
-HTML5
-CSS3
-Flexbox
-Google Lighthouse para auditoria de boas práticas, acessibilidade e SEO.
+- HTML5 <br>
+- CSS3<br>
+- Flexbox<br>
+- Google Lighthouse para auditoria de boas práticas, acessibilidade e SEO.
 
 📋 Funcionalidades<br>
 Responsividade: O layout é adaptável a diferentes dispositivos e resoluções de tela, utilizando Flexbox para gerenciar o posicionamento dos elementos.
